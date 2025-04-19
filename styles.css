@@ -8,7 +8,7 @@ section{
     width: 100%;
     height: 100%;
     padding: 20px 0;
-    background: url(./fresh-orange-water.jpg) center/cover no-repeat;
+    background: url(.fresh-orange-water.jpg) center/cover no-repeat;
     /* background: linear-gradient(to right, #667eea, #764ba2); */
     display: flex;
     align-items: center;
